@@ -1,0 +1,2 @@
+Command used to remove 'my_folder' and it's contents from my current working directory,
+ 'rm -r my_folder'

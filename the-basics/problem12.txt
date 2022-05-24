@@ -1,0 +1,9 @@
+What value does the following expression evaluate to?
+
+'12' < '9' 
+
+Answer: 
+true, because the evaluation takes place character per character, in this case 1 < 9 which is true. '12' < '9' 
+
+Answer: 
+true, because the evaluation takes place character per character, in this case 1 < 9 which is true. 

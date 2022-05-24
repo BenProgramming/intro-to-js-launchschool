@@ -1,0 +1,5 @@
+3. What happens when you run the following program? Why do we get that result? 
+
+
+The code will throw a scope error when trying to access the variable 'foo'. Because the let foo = 'bar'; statment is in a child code block the statement will not be able to reference the variable. The foo variable's scope is limited to the code block and all of the children of the block.
+ 

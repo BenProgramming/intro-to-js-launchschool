@@ -1,0 +1,5 @@
+Exercises Organization Guidelines 
+* Use one git repo for all exercises, in "Introduction to Programming with JavaScript"
+* Create a folder for each chapter in the book 
+* Create a separate file for every exercise in the book 
+---------------------------------------------------------

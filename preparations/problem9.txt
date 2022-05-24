@@ -1,0 +1,8 @@
+Which of the following names don't satisfy the style guidelines for naming variables, functions, or constants? 
+
+* snake_case 
+* quick_Fox 
+	- underscores permitted in the naming of constants 
+
+* 1stCharacter 
+	- numbers are not allowed as the first character of a variable name  

@@ -1,0 +1,26 @@
+Which of the following names satisfy the style guidelines for variable names?
+ 
+* index 
+	accepted 
+
+* CatName 
+		unaccepted
+
+* snake_case 
+		unaccepted
+
+* lazyDog 
+		accepted
+
+* quick_Fox 
+		unaccepted
+
+* 1stCharacter 
+		unaccepted
+
+* operand2 
+		accepted
+
+* BIG_NUMBER 
+		unaccepted
+

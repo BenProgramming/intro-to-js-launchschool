@@ -1,0 +1,7 @@
+What value does the following expression evaluate to?
+
+parseInt('3.1415')
+
+Answer: 
+Converts the string '3.1415' to the integer 3. 
+parseInt() will continue converting until it reaches a non number character. 

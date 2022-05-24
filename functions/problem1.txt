@@ -1,0 +1,12 @@
+What does this code log to the console? Does executing the foo function affect the output? Why or why not?
+
+let bar = 1;
+function foo() {
+  let bar = 2;
+}
+
+foo();
+console.log(bar); 
+
+
+No, because the second definition of bar is within the function scope, outside of re-defining bar. However, if the let keyword was not used the variable would be redefined with the value of '2'. 

@@ -1,0 +1,14 @@
+
+What does the code output to the console? 
+
+function isArrayEmpty(arr) {
+  if (arr) {
+    console.log('Not Empty');
+  } else {
+    console.log('Empty');
+  }
+}
+
+isArrayEmpty([]);
+
+// Because an empty array is a truthy value (not falsey or not any of the following values false, 0, -0, 0n, '' "" ``, null, undefined, NaN) it will evaluate to true and log 'Not Empty" to the console.  

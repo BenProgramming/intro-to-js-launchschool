@@ -1,0 +1,7 @@
+> let foo = "bar"; 
+undefined
+> console.log(foo); 
+bar
+undefined
+> foo;
+'bar' 

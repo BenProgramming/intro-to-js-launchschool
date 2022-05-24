@@ -1,0 +1,25 @@
+Which of the following names satisfy the style guidelines for constants used to represent magic numbers? 
+
+* index
+    accepted
+
+* CatName
+    unaccepted  
+
+* snake_case
+    unaccepted 
+
+* lazyDog
+    unaccepted 
+
+* quick_Fox
+    unaccepted
+
+* 1stCharacter
+    unaccepted 
+
+* operand2
+    unaccepted
+
+* BIG_NUMBER 
+    accepted

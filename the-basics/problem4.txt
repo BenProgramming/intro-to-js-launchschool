@@ -1,0 +1,5 @@
+Explain why this code logs '510' instead of 15
+
+console.log('5' + 10);
+
+When the method .log is passed two different types it coerces one to the other to produce a return value. In this case the Number data type is coerced to a String data type and is then concatenated with the String '5'. This is referred to as Type coercion.  

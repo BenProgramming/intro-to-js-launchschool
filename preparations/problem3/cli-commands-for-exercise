@@ -1,0 +1,4 @@
+Commands for problem request (ordered)
+mkdir preparations_exercises 
+cd preparations_exercises
+echo 'let foo = "bar"; \nconsole.log(foo); \nfoo; ' > foo.js 

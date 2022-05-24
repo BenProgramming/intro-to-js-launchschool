@@ -1,0 +1,10 @@
+Will this program produce an error when run? Why or why not? 
+
+const FOO = 'bar';
+{
+  const FOO = 'qux';
+}
+
+console.log(FOO); 
+
+The program will not throw an error because the other definition of FOO is withing a different scope or code block. 

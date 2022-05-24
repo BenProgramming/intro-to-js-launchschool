@@ -1,0 +1,4 @@
+What is exception handling and what problem does it solve?
+
+It helps developers solve problems so that they can more 'gracefully' take care of expected errors, or problems that will possibly arise. Avoids creating problems and places an error message in the place of actual failures. 
+ 

@@ -1,0 +1,6 @@
+What value does the following expression evaluate to?
+
+'foo' === 'Foo'
+
+Answer: 
+false, because the casing is not identical.

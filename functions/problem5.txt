@@ -1,0 +1,9 @@
+What does the following code log to the console? 
+
+function scream(words) {
+  return words + '!!!!';
+}
+
+scream('Yipeee');
+
+The code above will not log to the console. There is not a call to log to the console, in the code to do so. 

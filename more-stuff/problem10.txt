@@ -1,0 +1,14 @@
+// Consider this code: 
+> let x = "5"
+> x = x + 1
+= "51" 
+
+// Now, consider this code: 
+> let y = "5"
+> y++ 
+
+// What gets returned by y++ in the second snippet, and why? 
+
+// When using the postfix increment operator, the addition is after the return.
+// Therefore 5 (the number) will be returned. After the incrementation y will be equal to 6 because the number type of the increment will coerce the string to a number.  
+ 

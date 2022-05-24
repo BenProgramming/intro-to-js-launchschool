@@ -1,0 +1,25 @@
+Which of the following names satisfy the style guidelines for function names? 
+
+* index
+	  accepted
+
+* CatName
+		accepted - (for constructors) 
+
+* snake_case
+		unaccepted 
+
+* lazyDog
+ 		accepted 
+
+* quick_Fox
+ 		unaccepted
+
+* 1stCharacter
+		unaccepted 
+
+* operand2
+		unaccepted
+
+* BIG_NUMBER 
+		unaccepted
