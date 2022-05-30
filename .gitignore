@@ -1,2 +1,4 @@
-# Ignoring 'node_modules'
-/node_modules
+# Ignoring 'node_modules' and other JSON files
+/node_modules 
+/package-lock.json
+/package.json
